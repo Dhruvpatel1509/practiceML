@@ -23,7 +23,7 @@ print(y_i)
 # plt.xlabel('Size in 1000 sqft')
 # plt.ylabel('Price in 1000 $')
 # plt.show()
-
+#NEW
 
 w=200
 b=100
